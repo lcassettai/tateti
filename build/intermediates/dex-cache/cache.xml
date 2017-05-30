@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_00d82ef3370360fe3bde7d31f3cb31628e430bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/ed996f06a16fa0556efac166218fce569349fff6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6cd526b864f804b96b55a9c9df36918414919f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6e00eafdb05f5934c91d6f37d39f43af409efc18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_70926b741e4656c435831a23bf670b766205485f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/f0141350ee0e7e68d1b5fd83801c7f847872d3e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22328f3ab130688f1f32cf777482ca2f211f8543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/7633c545ae0c73d4bdcc87049d63080ba7fe0c93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9df00edaf285496b0701579cef6e61778e10bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/60461f106a48295da3b90d61d3c262654520820d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80f4b87d39d3a56744eade6eb7dfa3461a580087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/5d01acf4c00078cf1fede0b839a050a26a5a5a86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce36abf0f172d8c440a40f5d4816e28b994d26bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b8e8d6cdb83387adbcc8b7d3ecfa92c6bc55208">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba125f812e5f5ba61c25884e1708807a294138bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/c094337182b31dad0a6eb16ff2e17d96842f3c4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55e5352e1d3eefde6fc7822e3fad1971448e63d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/2747bad3bde77af5ef8363b1ca902874bdd97e44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5eedab9034b63aa8c86311fe833bc553662075b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/eeff5ddd4e7c5183fbc3e68b0423bfdfaef2e4df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f728cd117efed8a19c4ee63b3cbdcc9be5bf3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/10816b52df17299454843a078a5daa76b40b92e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74c08a272b104d329c38285bb72a8be4b12a6edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucho/.android/build-cache/12879064d39c68d6863c3d3660d8a580ec7e2405/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Lucho/Documents/Android/Tateti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67d7773692a5668d5597f88d6b71d7af8a9d8122/classes.dex" />
+    </item>
+
+</items>
