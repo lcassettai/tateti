@@ -27,14 +27,24 @@ public class MainActivity extends AppCompatActivity {
     public void btnClick(View view) {
         String jugador1 = String.valueOf(player1.getText());
         String jugador2 = String.valueOf(player2.getText());
-        if(jugador1.isEmpty() || jugador2.isEmpty()){
+        if(jugador1.isEmpty()){
             Toast.makeText(this, "Debe rellenar ambos campos", Toast.LENGTH_SHORT).show();
         }else{
-            Intent i = new Intent(this,Juego.class);
-            i.putExtra("jugador1",jugador1);
-            i.putExtra("jugador2",jugador2);
-            i.putExtra("modo",jugarSolo.isChecked());
-            startActivity(i);
+            if(jugarSolo.isChecked()){
+                Intent i = new Intent(this,Juego.class);
+                i.putExtra("jugador1",jugador1);
+                i.putExtra("jugador2","Maquina");
+                i.putExtra("modo",jugarSolo.isChecked());
+                startActivity(i);
+            }else if(jugador2.isEmpty()){
+                Toast.makeText(this, "Debe rellenar ambos campos", Toast.LENGTH_SHORT).show();
+            }else{
+                Intent i = new Intent(this,Juego.class);
+                i.putExtra("jugador1",jugador1);
+                i.putExtra("jugador2",jugador2);
+                i.putExtra("modo",jugarSolo.isChecked());
+                startActivity(i);
+            }
         }
 
     }
@@ -42,9 +52,15 @@ public class MainActivity extends AppCompatActivity {
     public void cbxClick(View view) {
         //Bloquear el ingreso del segundo nombre si juega solo
         if(jugarSolo.isChecked()){
-
+            player2.setEnabled(false);
+            player2.setText("Maquina");
         }else{
-
+            player2.setEnabled(true);
+            player2.setText("");
         }
+    }
+
+    public void btnSalir(View view) {
+        finish();
     }
 }
